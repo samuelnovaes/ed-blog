@@ -5,9 +5,9 @@
   <subtitle>Prática Pedagógica e Diversidade</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://edblog.ml/"/>
   <updated>2018-08-28T00:29:39.661Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://edblog.ml/</id>
   
   <author>
     <name>Samuel Novaes Sena</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Lorem Ipsum</title>
-    <link href="http://yoursite.com/2018/08/27/Lorem-Ipsum/"/>
-    <id>http://yoursite.com/2018/08/27/Lorem-Ipsum/</id>
+    <link href="http://edblog.ml/2018/08/27/Lorem-Ipsum/"/>
+    <id>http://edblog.ml/2018/08/27/Lorem-Ipsum/</id>
     <published>2018-08-28T00:27:23.000Z</published>
     <updated>2018-08-28T00:29:39.661Z</updated>
     
